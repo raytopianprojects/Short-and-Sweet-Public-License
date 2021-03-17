@@ -3,11 +3,11 @@
 The Short & Sweet Public License is a short easy to read copyleft public license for the purposes of gamedev and other digital works. It of course can be used for purposes outside those two. 
 
 ## Why use this license?
-1. You want a copyleft license that not only covers software and non-software works making it great for gamedev but can also be read and understood by everyone and that is very short. It's shorter then the MIT License by the way.
+1. You want a copyleft license that not only covers software and non-software works making it great for gamedev but can also be read and understood by everyone and that is very short. It's shorter than the MIT License by the way.
 2. You want your work to be shared and edited by anyone freely.
-3. You want to use more sustanible versions of funding such as crowdfunding and pay what you want. We recommend itch.io for the latter.
+3. You want to use more sustainable versions of funding such as crowdfunding and pay what you want. We recommend itch.io for the latter.
 4. You want to be able to crowdsource changes to your work.
-5. You like the idea of building a community around editing and sharing each others works. Just saying modding communites can make a game last far longer then it should have. Look at Minecraft, Skyrim, and Hearts of Iron 4 as examples.
+5. You like the idea of building a community around editing and sharing each other's works. Just saying modding communities can make a game or any project for that matter last far longer than it should have. Look at Minecraft, Skyrim, and Hearts of Iron 4 as examples.
 6. Because you're awesome!
 
 ## Other Stuff
@@ -15,7 +15,7 @@ This license and repo https://github.com/raytopianprojects/Short-and-Sweet-Publi
 
 We are not lawyers so use this license at your own risk. 
 
-If you have any questions about this license feel free to open an issue and ask.
+If you have any questions about this license, feel free to open an issue and ask.
 
 ## License
 
