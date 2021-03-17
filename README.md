@@ -1,20 +1,37 @@
 # Short & Sweet Public License 
 
-The Short & Sweet Public License is a short easy to read copyleft public license. It is based on the zlib license, AGPL 3.0 public license, and the Creative Commons Share-alike public license.  
+The Short & Sweet Public License is a short easy to read copyleft public license for the purposes of gamedev and other digital works. It of course can be used for purposes outside those two. 
 
-It attempts to solve copyleft licensing problems that video games and game engines suffer from. This is important as video games and their tools are the most actively edited/modded software/creative works but despite this copyleft hasn't really impacted the industry at all. This issue arises not only from the fact that copyleft software licenses are complex but also due to the fact that they either cover software or non-software works but never both, which make it difficult to license the games. 
+## Why use this license?
+1. You want a copyleft license that not only covers software and non-software works making it great for gamedev but can also be read and understood by everyone and that is very short. It's shorter then the MIT License by the way.
+2. You want your work to be shared and edited by anyone freely.
+3. You want to use more sustanible versions of funding such as crowdfunding and pay what you want. We recommend itch.io for the latter.
+4. You want to be able to crowdsource changes to your work.
+5. You like the idea of building a community around editing and sharing each others works. Just saying modding communites can make a game last far longer then it should have. Look at Minecraft, Skyrim, and Hearts of Iron 4 as examples.
+6. Because you're awesome!
 
-So how does this license solve these issues? 
+## License
 
-  1. It's short. It's only 50 more words then the MIT License. It's also clear and understandable which is great for everyone. 
-  2. It covers both software and non-software by making the distinction between works that are easily alterable and those that aren't. 
-  3. It is very viral making any alterations to the work (this makes mods open source), any works that use or are combined with the work, and anything         the work outputs must also be licensed under this license. 
-  4. It covers network services meaning that in the cases of multiplayer games someone can't just run altered works behind a server without sharing what they altered.
-  5. It prevents the license and its terms from being changed.  
-  6. Distrubutions of the work must give those that have the work a URL to not only where they can freely access and download the work and this license but also to an easily alterable version of the work if the base version of the work is not easily alterable. As is often the case in complied code. 
+Short & Sweet Public License  
 
-Overall it ensures that everyone can freely access to the work and that any changes made to the work are shared.
+Permission is granted to anyone to use this Work for any purpose, including commercial applications, and to alter it, and redistribute it freely, subject to the following restrictions:  
 
-The license can be found under license.txt in this repo. Use it if you want a copyleft license that works for you.
+1. You must license any version, altered or not, of this Work, the output of this Work, and any work that uses this Work under this license. 
 
-This license is provided 'as-is' without express or implied warranty. In no event will the authors be held liable for and damage from the use of this license. 
+2. If you redistribute this Work or run a network service that uses this Work you must notify and provide easily accessible URL(s) to where anyone can freely download, in its preferred version for altering, this Work. 
+
+3. This license may not be altered. 
+
+4. You must notify and provide an easily accessible URL to this license with this Work.  
+
+5. You may not restrict anyone in any way from doing what this license permits.  
+
+This Work is provided 'as-is' without express or implied warranty. In no event will the authors be held liable for and damage from the use of this Work. 
+
+The license can also be found under license.txt in this repo.
+
+This license and repo https://github.com/raytopianprojects/Short-and-Sweet-Public-License is licensed under the Short & Sweet Public License https://github.com/raytopianprojects/Short-and-Sweet-Public-License/blob/main/license.txt. 
+
+We are not lawyers so use this license at your own risk. 
+
+If you have any questions about this license feel free to open an issue and ask.
