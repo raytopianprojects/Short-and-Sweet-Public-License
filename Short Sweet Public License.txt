@@ -1,0 +1,23 @@
+Short & Sweet Public License
+
+Permission is granted to anyone to use this Work for any purpose, including commerical
+applications, and to alter it, and redistrubte it freely, subject to the following 
+restrictions:
+
+1. Any work which uses any alterted or unalterted versions of this Work, any work that 
+is combined with any alterted or unalterted versions of this Work, this Work itself, and 
+any alterted or unalterted distrubuted versions of this work must be placed under this 
+license and this license's terms.
+
+2. If you distrubute any alterted or unalterted versions of this Work or provide a network 
+service which uses this Work you must in a reasonable manner provide URL(s) or hyperlink(s) 
+to this license and to where any person, freely without charge, can access and download
+this Work in its prefered easily alterable version. 
+
+3. This license and this license's terms may not be alterted. 
+
+4. You may not restrict any person in any way from doing what this license and this 
+licence's terms permit.
+
+This Work is provided 'as-is' without express or implied warranty. In no event will the
+authors be held liable for and damage from the use of this work.
