@@ -10,6 +10,13 @@ The Short & Sweet Public License is a short easy to read copyleft public license
 5. You like the idea of building a community around editing and sharing each others works. Just saying modding communites can make a game last far longer then it should have. Look at Minecraft, Skyrim, and Hearts of Iron 4 as examples.
 6. Because you're awesome!
 
+## Other Stuff
+This license and repo https://github.com/raytopianprojects/Short-and-Sweet-Public-License is licensed under the Short & Sweet Public License https://github.com/raytopianprojects/Short-and-Sweet-Public-License/blob/main/license.txt. 
+
+We are not lawyers so use this license at your own risk. 
+
+If you have any questions about this license feel free to open an issue and ask.
+
 ## License
 
 Short & Sweet Public License  
@@ -27,11 +34,3 @@ Permission is granted to anyone to use this Work for any purpose, including comm
 5. You may not restrict anyone in any way from doing what this license permits.  
 
 This Work is provided 'as-is' without express or implied warranty. In no event will the authors be held liable for and damage from the use of this Work. 
-
-The license can also be found under license.txt in this repo.
-
-This license and repo https://github.com/raytopianprojects/Short-and-Sweet-Public-License is licensed under the Short & Sweet Public License https://github.com/raytopianprojects/Short-and-Sweet-Public-License/blob/main/license.txt. 
-
-We are not lawyers so use this license at your own risk. 
-
-If you have any questions about this license feel free to open an issue and ask.
