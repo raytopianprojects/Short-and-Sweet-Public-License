@@ -11,5 +11,3 @@ Permission is granted to anyone to use this Work for any purpose, including comm
 4. You may not restrict anyone in any way from doing what this license permits.  
 
 This Work is provided 'as-is' without express or implied warranty. In no event will the authors be held liable for and damage from the use of this Work. 
-
- 
