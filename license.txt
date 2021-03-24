@@ -6,7 +6,7 @@ Permission is granted to anyone to use this Work for any purpose, including comm
 
 2. If you redistribute this Work or run a network service that uses this Work you must notify and provide easily accessible URL(s) to where anyone can freely download, in its preferred version for altering, this Work. 
 
-3. You must notify and provide an easily accessible URL to this license with this Work.  
+3. You must notify and provide an easily accessible URL, alongside this Work, to this license.  
 
 4. You may not restrict anyone in any way from doing what this license permits.  
 
