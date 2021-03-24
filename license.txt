@@ -4,7 +4,7 @@ Permission is granted to anyone to use this Work for any purpose, including comm
 
 1. You must license any version, altered or not, of this Work, the output of this Work, and any work that uses this Work under this license. 
 
-2. If you redistribute this Work or run a network service that uses this Work you must, reasonably, provide to anyone easily accessible URL(s) to where anyone can freely download, in its preferred version for altering, this Work. 
+2. If you redistribute this Work or run a network service that uses this Work you must, reasonably, provide easily accessible URL(s) to where anyone can freely download, in its preferred version for altering, this Work. 
 
 3. You must, reasonably, provide an easily accessible URL, alongside this Work, to this license.  
 
