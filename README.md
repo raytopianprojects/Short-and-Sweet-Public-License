@@ -1,6 +1,6 @@
 # Short & Sweet Public License 
 
-The Short & Sweet Public License is a short easy to read copyleft public license for the purposes digital works. We are not lawyers so use this license at your own risk as you should with all licenses. 
+The Short & Sweet Public License is a short easy to read copyleft public license for the purposes digital works. This is apart of the Sweet! Free Work copyleft group. We are not lawyers so use this license at your own risk as you should with all licenses. 
 
 ## Why use this license?
 1. You want a copyleft license that not only covers software and non-software works making it great for all digital works but can also be read and understood by everyone and that is very short. It's shorter than the MIT License by the way.
