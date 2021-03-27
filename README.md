@@ -12,15 +12,17 @@ If you have any questions about this license, feel free to open an issue and ask
 
 Short & Sweet Public License  
 
-Permission is granted to anyone to use this Work for any purpose, including commercial applications, and to alter it, and share it freely, and to use it, subject to the following restrictions:  
+Permission is granted to anyone to use this Work for any purpose, including commercial applications, and to alter it, and share it freely, subject to the following restrictions:  
 
-1. You must license this Work (alterted or not), the output of this Work, and any work that uses this Work under this license. 
+1. You must license the output of this Work and any work that uses this Work under this license. 
 
-2. If you share this Work you must display URL(s) or link(s) to where anyone can freely download a preferred version for altering this Work. 
+2. If you share or let anyone use this Work you must display URL(s) or link(s) to where anyone can at no cost download this Work. 
 
-3. You must display a notice that this Work is licensed under this license.
+3. You must inform anyone using this Work it's licensed under this license.
 
 4. You may not restrict anyone in any way from doing what this license permits.
+
+5. You may not change this Work's license. 
 
 This Work is provided 'as-is' without express or implied warranty. In no event will the authors be held liable for and damage from the use of this Work.
 
