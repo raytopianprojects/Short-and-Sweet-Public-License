@@ -1,32 +1,28 @@
 # Short & Sweet Public License 
-
-The Short & Sweet Public License is a short easy to read copyleft public license for the purposes digital works. This is apart of the Sweet! Free Work copyleft group. We are not lawyers so use this license at your own risk as you should with all licenses. 
-
-## Why use this license?
-1. You want a copyleft license that not only covers software and non-software works making it great for all digital works but can also be read and understood by everyone and that is very short. It's shorter than the MIT License by the way.
-2. You want your work to be shared and edited by anyone freely.
-3. You want to use more sustainable versions of funding such as crowdfunding and pay what you want. We recommend itch.io for the latter.
-4. You want to be able to crowdsource changes to your work.
-5. You like the idea of building a community around editing and sharing each other's works. Just saying modding communities can make a game or any project for that matter last far longer than it should have. Look at Minecraft, Skyrim, and Hearts of Iron 4 as examples.
-6. Because you're awesome!
+We are not lawyers so you proably shouldn't use this public license but if you do you do so at your own risk. It was written and used by [Raytopian Projects](https://www.raytopia.party/).
 
 ## Other Stuff
-This license and repo https://github.com/raytopianprojects/Short-and-Sweet-Public-License is licensed under the Short & Sweet Public License https://github.com/raytopianprojects/Short-and-Sweet-Public-License/blob/main/license.txt. 
+This [license and repo](https://github.com/raytopianprojects/Short-and-Sweet-Public-License) is licensed under the [Short & Sweet Public License](https://github.com/raytopianprojects/Short-and-Sweet-Public-License/blob/main/license.txt). 
 
 If you have any questions about this license, feel free to open an issue and ask.
+
+[FAQ HERE]()
 
 ## License
 
 Short & Sweet Public License  
 
-Permission is granted to anyone to use this Work for any purpose, including commercial applications, and to alter it, and redistribute it freely, and to use this Work, subject to the following restrictions:  
+Permission is granted to anyone to use this Work for any purpose, including commercial applications, and to alter it, and share it freely, and to use it, subject to the following restrictions:  
 
-1. You must license any version, altered or not, of this Work, the output of this Work, and any work that uses this Work under this license. 
+1. You must license this Work (alterted or not), the output of this Work, and any work that uses this Work under this license. 
 
-2. If you redistribute this Work or run a network service that uses this Work you must, reasonably, provide easily accessible URL(s) or link(s) to where anyone can freely download, in its preferred version for altering, this Work. 
+2. If you share this Work you must display URL(s) or link(s) to where anyone can freely download a preferred version for altering this Work. 
 
-3. You must, reasonably, provide an easily accessible URL or link, alongside this Work, to this license.  
+3. You must display a notice that this Work is licensed under this license.
 
 4. You may not restrict anyone in any way from doing what this license permits.
 
-This Work is provided 'as-is' without express or implied warranty. In no event will the authors be held liable for and damage from the use of this Work. 
+This Work is provided 'as-is' without express or implied warranty. In no event will the authors be held liable for and damage from the use of this Work.
+
+## PS
+You're awesome!
