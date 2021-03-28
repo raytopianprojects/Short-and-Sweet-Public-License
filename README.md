@@ -1,5 +1,5 @@
 # Short & Sweet Public License
-We are not lawyers so you proably shouldn't use this public license but if you do you do so at your own risk. It was written and used by [Raytopian Projects](https://www.raytopia.party/). 
+We are not lawyers and as such this isn't legal advice, but you probably shouldn't use this public license and if you do you do so entirely at your own risk. It was written and used by [Raytopian Projects](https://www.raytopia.party/). 
 
 ## Other Stuff
 This [license and repo](https://github.com/raytopianprojects/Short-and-Sweet-Public-License) is licensed under the [Short & Sweet Public License](https://github.com/raytopianprojects/Short-and-Sweet-Public-License/blob/main/license.txt). 
@@ -16,9 +16,9 @@ Permission is granted to anyone to use, to modify, and to freely share this Work
 
 1. The output of this Work, any work that uses this Work, and any modifications to this Work must be licensed under this license.  
 
-2. If you share or let anyone use this Work you must inform them where they can freely download this Work and its preferred form for modifying. 
+2. If you share this Work or let anyone use this Work you must inform them where they can freely download this Work and its preferred form for modifying. 
 
-3. When sharing this Work you must display that this Work is licensed under this license. 
+3. When sharing this Work you must display, where you're sharing it, that it is licensed under this license. 
  
 4. You may not change this Work's license.    
 
