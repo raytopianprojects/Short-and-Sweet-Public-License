@@ -16,7 +16,7 @@ Permission is granted to anyone to use, to modify, and to freely share this Work
 
 1. The output of this Work, any work that uses this Work, and any modifications to this Work must be licensed under this license.  
 
-2. If you share this Work or let anyone use this Work you must inform them where they can freely download this Work and its preferred form for modifying. 
+2. If you share this Work or let anyone use this Work you must inform them where they can freely download both this Work and its preferred form for modifying. 
 
 3. When sharing this Work you must display at the place you're sharing it that it is licensed under this license. 
  
