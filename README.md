@@ -18,9 +18,9 @@ Permission is granted to anyone to use, to modify, and to freely share this Work
 
 2. If you share this Work or let anyone use this Work you must inform them where they can freely download this Work and its preferred form for modifying. 
 
-3. When sharing this Work you must display, where you're sharing it, that it is licensed under this license. 
+3. When sharing this Work you must display at the place you're sharing it that it is licensed under this license. 
  
-4. You may not change this Work's license.    
+4. You may not change this Work's license.
 
 5. You may not restrict anyone in any way from doing what this license allows. 
 
