@@ -10,21 +10,21 @@ If you have any questions about this license, feel free to open an issue and ask
 
 ## License
 
-Short & Sweet Public License
+Short & Sweet Public License 
 
-Permission is granted to anyone to use this Work for any purpose, including commercial applications, and to alter it, and share it freely, subject to the following restrictions:  
+Permission is granted to anyone to use, to modify, and to freely share this Work for any purpose, subject to the following restrictions: 
 
-1. The output of this Work and any work that uses this Work must be licensed under this license. 
+1. The output of this Work, any work that uses this Work, and any modifications to this Work must be licensed under this license.  
 
-2. If you share or let anyone use any part(s) of this Work you must inform where they can download this Work for free. 
+2. If you share or let anyone use this Work you must inform them where they can freely download this Work and its preferred form for modifying. 
 
-3. You must inform anyone using this Work (or part(s) of) that it's licensed under this license.
+3. When sharing this Work you must display that this Work is licensed under this license. 
+ 
+4. You may not change this Work's license.    
 
-4. You may not change this Work's license. 
+5. You may not restrict anyone in any way from doing what this license allows. 
 
-5. You may not restrict anyone in any way from doing what this license permits.
-
-This Work is provided 'as-is' without express or implied warranty. In no event will the authors be held liable for and damage from the use of this Work.
+This Work is provided 'as-is' without express or implied warranty. In no event will the authors be held liable for and damage from the use of this Work. 
 
 ## PS
 You're awesome!
