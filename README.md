@@ -6,7 +6,7 @@ This [license and repo](https://github.com/raytopianprojects/Short-and-Sweet-Pub
 
 If you have any questions about this license, feel free to open an issue and ask.
 
-[FAQ HERE]()
+[FAQ HERE]() - Work in Progress
 
 ## License
 
