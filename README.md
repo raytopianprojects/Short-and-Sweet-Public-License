@@ -1,4 +1,4 @@
-# Short & Sweet Public License NOTE: WORK IN PROGRESS DO NOT USE
+# Short & Sweet Public License
 We are not lawyers so you proably shouldn't use this public license but if you do you do so at your own risk. It was written and used by [Raytopian Projects](https://www.raytopia.party/). 
 
 ## Other Stuff
