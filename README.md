@@ -11,7 +11,7 @@ If you have any questions about this license, feel free to open an issue and ask
 ## License
 Short & Sweet Shareware License
 
-Copyright \<YEAR> \<OWNER>
+Copyright \<YEAR> \<PROJECT NAME>
 
 Permission to use, copy, modify, and/or distribute this Work for any purpose with or without fee is hereby granted, subject the following conditions:
 1. The above copyright notice, a link to this license, and a link to where this Work can be downloaded for free must publicly appear with all copies of this Work and with any services using this Work.
