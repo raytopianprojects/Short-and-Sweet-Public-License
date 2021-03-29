@@ -18,7 +18,7 @@ Permission to use, copy, modify, and/or distribute this Work for any purpose wit
 2. If you remix, transform, modify, or build upon this Work, you must distribute your contributions under this license.
 3. You may not change this Work's license or restrict anyone in any way from doing what this license allows.
 
-*NO WARRATY: This Work is provided 'as-is' without express or implied warranty. In no event will the authors be held liable for and damage from the use of this Work.*
+*NO WARRANTY: This Work is provided 'as-is' without express or implied warranty. In no event will the authors be held liable for and damage from the use of this Work.*
 
 ## PS
 You're awesome!
