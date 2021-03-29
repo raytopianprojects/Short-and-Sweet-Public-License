@@ -1,4 +1,4 @@
-# Short & Sweet Public License
+# Short & Sweet Shareware License
 We are not lawyers and as such this isn't legal advice, but you probably shouldn't use this public license and if you do you do so entirely at your own risk. It was written and used by [Raytopian Projects](https://www.raytopia.party/). 
 
 ## Other Stuff
