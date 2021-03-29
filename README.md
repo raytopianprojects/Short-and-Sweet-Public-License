@@ -9,22 +9,16 @@ If you have any questions about this license, feel free to open an issue and ask
 [FAQ HERE]() - Work in Progress
 
 ## License
+Short & Sweet Shareware License
 
-Short & Sweet Public License 
+Copyright <YEAR> <OWNER>
 
-Permission is granted to anyone to use, to modify, and to freely share this Work for any purpose, subject to the following restrictions: 
+Permission to use, copy, modify, and/or distribute this Work for any purpose with or without fee is hereby granted, provided the following restrictions:
+1. The above copyright notice, a link to this license, and a link to where this Work can be downloaded for free appear with all copies of this Work and with any services using this Work.
+2. If you remix, transform, modify, or build upon this Work, you must distribute your contributions under this license.
+3. You may not change this Work's license or restrict anyone in any way from doing what this license allows.
 
-1. The output of this Work, any work that uses this Work, and any modifications to this Work must be licensed under this license.  
-
-2. If you share this Work or let anyone use this Work you must inform them where they can freely download both this Work and its preferred form for modifying. 
-
-3. When sharing this Work you must display at the place you're sharing it that it is licensed under this license. 
- 
-4. You may not change this Work's license.
-
-5. You may not restrict anyone in any way from doing what this license allows. 
-
-This Work is provided 'as-is' without express or implied warranty. In no event will the authors be held liable for and damage from the use of this Work. 
+NO WARRATY: This Work is provided 'as-is' without express or implied warranty. In no event will the authors be held liable for and damage from the use of this Work.
 
 ## PS
 You're awesome!
