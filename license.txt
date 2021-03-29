@@ -1,15 +1,21 @@
 Short & Sweet Public License
 
-This Work is provided 'as-is' without express or implied warranty. In no event will the authors be held liable for and damage from the use of this Work.
 
-Permission is granted to anyone, for any purpose, to use, to modify, and to freely share this Work, subject to the following restrictions:
-
-1. If you remix, transform, or build upon this Work, you must distribute your contributions under this license. 
 
 2. If you share this Work or let anyone use this Work modified or unmodified you must inform them where they can freely download both this Work and its preferred form for modifying.
 
-3. When sharing this Work you must provide a link to this license.
- 
-4. You may not change this Work's license.
 
-5. You may not restrict anyone in any way from doing what this license allows.
+This Work is provided 'as-is' without express or implied warranty. In no event will the authors be held liable for and damage from the use of this Work.
+
+Permission to use, copy, modify, and/or distribute this Work for any purpose with or without fee is hereby granted, provided that the following conditions are meant:
+
+1. You must provide a link to this license, to this Work, and to the version of this Work .
+2. You may not change this Work's license or restrict anyone in any way from doing what this license allows.
+3. If you remix, transform, modify, or build upon this Work, you must distribute your contributions under this license. 
+You must provide a link to this license, to this Work or a 
+
+Copyright <YEAR> <OWNER>
+
+Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
