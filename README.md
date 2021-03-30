@@ -11,7 +11,7 @@ If you have any questions about this license, feel free to open an issue and ask
 ## License
 Short & Sweet Shareware License
 
-Permission to use, copy, modify, and distribute this Work for any purpose, even commerically, subject the following conditions:
+Permission is granted to use, copy, modify, and distribute this Work for any purpose, even commerically, subject the following conditions:
 1. A link to this license, a link to where this Work can be downloaded for free, and a link to where this Work's prefered form for modifying can be downloaded for free must publicly appear with all copies of this Work and with any services using this Work.
 2. If you remix, transform, modify, or build upon this Work, you must distribute your contributions under this license.
 3. You may not change this Work's license or restrict anyone in any way from doing what this license allows.
