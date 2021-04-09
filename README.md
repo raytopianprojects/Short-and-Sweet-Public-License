@@ -11,8 +11,13 @@ If you have any questions about this license, feel free to open an issue and ask
 
 [FAQ HERE]() - Work in Progress
 
+## PS
+You're awesome!
+
 ## License
 Short & Sweet Public License
+
+*NO WARRANTY: This Work is provided 'as-is' without express or implied warranty. In no event will the authors be held liable for and damage from the use of this Work.* 
 
 Permission is granted to use, copy, modify, and distribute this Work for any purpose, even commercially, subject the following conditions: 
 
@@ -20,7 +25,4 @@ Permission is granted to use, copy, modify, and distribute this Work for any pur
 2. If you remix, transform, modify, or build upon this Work you must distribute your contributions and changes under this license. 
 3. You may not change this Work's license or restrict anyone in any way from doing what this license allows. 
 
-*NO WARRANTY: This Work is provided 'as-is' without express or implied warranty. In no event will the authors be held liable for and damage from the use of this Work.* 
-
-## PS
-You're awesome!
+If you fail to comply with any of this license's conditions the permissions granted under this license are revoked.
