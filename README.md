@@ -29,4 +29,4 @@ Permission is granted to use, copy, modify, and/or distribute this Work for any 
 
 4. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits. 
 
-If you fail to comply with any of this license’s conditions the permissions granted under this license are revoked immediately. 
+If you fail to comply with any of If you fail to comply with any of the above conditions the permissions granted under this license are revoked immediately. 
