@@ -15,14 +15,18 @@ If you have any questions about this license, feel free to open an issue and ask
 You're awesome!
 
 ## License
-Short & Sweet Public License
+Short & Sweet Public License 
 
-*NO WARRANTY: This Work is provided 'as-is' without express or implied warranty. In no event will the authors be held liable for and damage from the use of this Work.* 
+*NO WARRANTY: This Work is provided 'as-is' without express or implied warranty. In no event will the authors be held liable for and damage from the use of this Work.*  
 
-Permission is granted to use, copy, modify, and distribute this Work for any purpose, even commercially, subject the following conditions: 
+Permission is granted to use, copy, modify, and distribute this Work for any purpose, even commercially, subject the following conditions:  
 
-1. A link to this license and a link to where this Work's preferred form for modifying can be downloaded for free must appear, in a publicly accessible way, with all copies of this Work and with any services using this Work. 
-2. If you remix, transform, modify, or build upon this Work you must distribute your contributions and changes under this license. 
-3. You may not change this Work's license or restrict anyone in any way from doing what this license allows. 
+1. A link to this license and a link to where this Work's preferred form for modifying can be downloaded for free must appear, in a publicly accessible way, with all copies of this Work and with any services using this Work.  
 
-If you fail to comply with any of this license's conditions the permissions granted under this license are revoked.
+2. If you remix, transform, modify, or build upon this Work you must distribute your contributions and changes under this license.  
+
+3. You may not change this Work's license. 
+
+4. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits. 
+
+If you fail to comply with any of this license’s conditions the permissions granted under this license are revoked immediately. 
