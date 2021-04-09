@@ -23,7 +23,7 @@ Permission is granted to use, copy, modify, and/or distribute this Work for any 
 
 1. A link to this license and a link to where this Work's preferred form for modifying can be downloaded for free must appear, in a publicly accessible way, with all copies of this Work and with any services using this Work.  
 
-2. If you remix, transform, modify, or build upon this Work you must distribute your contributions and changes under this license.  
+2. If you modify or build upon this Work you must distribute your modifications and the work built upon this Work under this license.  
 
 3. You may not change this Work's license. 
 
