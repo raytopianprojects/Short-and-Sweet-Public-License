@@ -1,0 +1,15 @@
+Short & Sweet Public License 
+
+*This work is provided 'as-is' without express or implied warranty. In no event will the authors be held liable for and damage from the use of this work.*
+
+Permission is granted to use, copy, modify, and/or distribute this work for any purpose, even commercially, subject the following conditions:  
+
+1. A link to this license and a link to where this work's preferred form for modifying can be downloaded for free must appear, in a publicly accessible way, with all copies of this work and with any services using this work.  
+
+2. If you modify or build upon this work you must license your modifications and the work built upon this work under this license.  
+
+3. You may not change this work's license.
+
+4. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+If you fail to comply with any of the above conditions the permissions granted under this license are revoked immediately. 
