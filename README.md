@@ -5,7 +5,7 @@
 The intended purpose is for digital shareware works. The idea of a shareware work is to let anyone share it freerly with others that way the word of mouth spreads faster in terms of the work. Hopefully making it more popular. It was also written with video games in mind as very few public licenses work well for video games. So if you like the idea of a license people can actually understand and those people sharing and remxing your work and building a community around that this license is for you.
 
 ## Other Stuff
-This [license and repo](https://github.com/raytopianprojects/Short-and-Sweet-Public-License) is licensed under the [Short & Sweet Public License](https://github.com/raytopianprojects/Short-and-Sweet-Public-License/blob/main/license.txt). 
+This [license and repo](https://github.com/raytopianprojects/Short-and-Sweet-Public-License) is licensed under the [Short & Sweet Public License](https://github.com/raytopianprojects/Short-and-Sweet-Public-License/blob/main/license.md). 
 
 If you have any questions about this license, feel free to open an issue and ask.
 
