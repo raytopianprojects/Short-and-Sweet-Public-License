@@ -10,7 +10,7 @@ You like the idea of a short copyleft license that can actually be understood an
 ## Other Stuff
 This [license and repo](https://github.com/raytopianprojects/Short-and-Sweet-Public-License) is licensed under the [Short & Sweet Public License](https://github.com/raytopianprojects/Short-and-Sweet-Public-License/blob/main/license.md). 
 
-If you have any questions about this license, feel free to open an issue and ask.
+If you have any questions about this license, feel free to open an issue and ask. Also keep in mind that this license was drafted with the laws of the United States of America in mind. So depending on where you live it may or may not service your needs.
 
 ## PS
 You're awesome!
