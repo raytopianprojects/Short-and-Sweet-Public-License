@@ -1,8 +1,11 @@
 # Short & Sweet Public License
-*We are not a law firm and does not provide legal services or legal advice. Distribution of Short & Sweet Public License does not create a lawyer-client or other relationship. We makes our license and related information available on an “as-is” basis. We give no warranties regarding this license, any material licensed under their terms and conditions, or any related information. We disclaims all liability for damages resulting from its use to the fullest extent possible.*
+*We are not a law firm and do not provide legal services or legal advice. Distribution of Short & Sweet Public License does not create a lawyer-client or other relationship. We makes our license and related information available on an “as-is” basis. We give no warranties regarding this license, any material licensed under their terms and conditions, or any related information. We disclaims all liability for damages resulting from its use to the fullest extent possible.*
 
-## Purpose of License?
-The intended purpose is for digital shareware works. The idea of a shareware work is to let anyone share it freerly with others that way the word of mouth spreads faster in terms of the work. Hopefully making it more popular. It was also written with video games in mind as very few public licenses work well for video games. So if you like the idea of a license people can actually understand and those people sharing and remxing your work and building a community around that this license is for you.
+## NOTICE
+This license and github repo is still being drafted do not use the license at the moment.
+
+## Why use this license?
+You like the idea of a short copyleft license that can actually be understood and used for projects that mix code and art such as gamedev. 
 
 ## Other Stuff
 This [license and repo](https://github.com/raytopianprojects/Short-and-Sweet-Public-License) is licensed under the [Short & Sweet Public License](https://github.com/raytopianprojects/Short-and-Sweet-Public-License/blob/main/license.md). 
@@ -25,7 +28,7 @@ Permission is granted to use, copy, modify, and/or distribute this work for any 
 
 3. You may not change this work's license.
 
-4. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+4. You may not apply legal terms or technological measures that legally restrict others from doing anything this license permits.
 
 If you fail to comply with any of the above conditions the permissions granted under this license are revoked immediately. If you recomply with all of the above conditions the permissions granted under this license are reinstated immediately.
 
