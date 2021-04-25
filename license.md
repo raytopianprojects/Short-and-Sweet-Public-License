@@ -10,6 +10,6 @@ Permission is granted to use, copy, modify, and/or distribute this work for any 
 
 3. You may not change this work's license.
 
-4. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+4. You may not apply legal terms or technological measures that legally restrict others from doing anything this license permits.
 
 If you fail to comply with any of the above conditions the permissions granted under this license are revoked immediately. If you recomply with all of the above conditions the permissions granted under this license are reinstated immediately.
