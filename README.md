@@ -1,9 +1,6 @@
 # Short & Sweet Public License
 *We are not a law firm and do not provide legal services or legal advice. Distribution of Short & Sweet Public License does not create a lawyer-client or other relationship. We makes our license and related information available on an “as-is” basis. We give no warranties regarding this license, any material licensed under their terms and conditions, or any related information. We disclaims all liability for damages resulting from its use to the fullest extent possible.*
 
-## NOTICE
-This license and github repo is still being drafted do not use the license at the moment.
-
 ## Why use this license?
 You like the idea of a short copyleft license that can actually be understood and used for projects that mix code and art such as gamedev. 
 
